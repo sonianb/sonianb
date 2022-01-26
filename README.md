@@ -8,7 +8,7 @@ And the reason for that is simple: it combines everything I love doing.
 - Racking my brain to solve problems.
 - Working in a team towards the same goal.  
 
-✨ Life gave me the lemons and I'm here to make lemonades taste better.✨
+✨ Life gave me lemons and I'm here to make lemonade taste better.✨
 
 ## 🌱 I'm currently learning and practising 
 - Front-End Technologies (JavaScript, TypeScript, CSS - which I particularly love)
