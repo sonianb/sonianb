@@ -2,7 +2,7 @@
 # Hi there, I'm Sonia 🍋
 I'm here because I ❤️ the idea of being able to create purposeful and accessible technology.
 
-My coding journey stared in April 2021. Now I know that pursuing a career in tech was one of the best decisions I could ever take.
+My coding journey started in April 2021. Now I know that pursuing a career in tech was one of the best decisions I could ever take.
 And the reason for that is simple: it combines everything I love doing.
 - Building things from scratch. 
 - Racking my brain to solve problems.
@@ -12,7 +12,7 @@ And the reason for that is simple: it combines everything I love doing.
 
 ## 🌱 I'm currently learning and practising 
 - Front-End Technologies (JavaScript, TypeScript, CSS - which I particularly love)
-- Git GUI Tools
+- Git Tools
 - Using APIs
 
 ## 🔭 My goals for this year
