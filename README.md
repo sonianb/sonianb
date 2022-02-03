@@ -13,14 +13,13 @@ And the reason for that is simple: it combines everything I love doing.
 ## 🌱 I'm currently learning and practising 
 - Front-End Technologies (JavaScript, TypeScript, CSS - which I particularly love)
 - Git Tools
-- Using APIs
+- Asynchronous JavaScript and APIs
 
 ## 🔭 My goals for this year
 - Become a technically competent developer through self-learning and the [Founders and Coders](https://www.foundersandcoders.com/) Coding Bootcamp I'm currently taking part in.
 - Work for a product I truly believe in and care about.
-- Contribute to open-source projects and share my knowledge with people interested in technology.
+- Contribute to open-source projects and share my knowledge with people interested in tech.
 - Be part of the change I want to see in the tech industry.
-- Oh, and maybe exercise more often!   
 
 ## ☀️ Things that make me happy 
 - Healthy productivity and sunny days. 
