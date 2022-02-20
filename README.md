@@ -8,12 +8,10 @@ And the reason for that is simple: it combines everything I love doing.
 - Racking my brain to solve problems.
 - Working in a team towards the same goal.  
 
-✨ Life gave me lemons and I'm here to make lemonade taste better.✨
-
 ## 🌱 I'm currently learning and practising 
-- Front-End Technologies (JavaScript, TypeScript, CSS - which I particularly love)
+- Front-End Technologies (JavaScript, TypeScript, React, CSS - which I particularly love)
 - Git Tools
-- Asynchronous JavaScript and APIs
+- Unit Testing and TDD
 
 ## 🔭 My goals for this year
 - Become a technically competent developer through self-learning and the [Founders and Coders](https://www.foundersandcoders.com/) Coding Bootcamp I'm currently taking part in.
@@ -23,7 +21,7 @@ And the reason for that is simple: it combines everything I love doing.
 
 ## ☀️ Things that make me happy 
 - Healthy productivity and sunny days. 
-- Watching independent, art-house films.
+- Watching films that make me think.
 - Seeing people being compassionate, supportive, and kind. 
 
 <!--
