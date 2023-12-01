@@ -1,7 +1,8 @@
 ## Hi there 👋
-I'm Sonia (she/they) and I'm here because I ❤️ the idea of being able to create purposeful and accessible technology. 
+I'm Sonia and I'm here because I ❤️ the idea of being able to create purposeful and accessible technology. 
 
-My goal is to become a well-rounded software developer through self-learning and my apprenticeship at [Agile Collective](https://agile.coop/), work on purpose-driven projects, and be part of the change I want to see in the tech industry.
+I'm a front-end developer at [Agile Collective](https://agile.coop/), where I work on building websites for purpose-driven, ethical organisations. 
 
-🪄 **My tech stack includes** JavaScript, React, Next.js, HTML, and CSS.  
-🌱 **I'm currently learning and practising** Vue.js, Nuxt, Drupal, and PHP.  
+My goal is not to just find solutions that work but are also accessible, performant and offer a good, intuitive user experience. 
+
+Tech Stack: Drupal, React, Vue.js, Next.js, CSS, JavaScript, GraphQL, MySQL
